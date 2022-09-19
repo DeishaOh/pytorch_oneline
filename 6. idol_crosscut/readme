@@ -1,1 +1,6 @@
 아이돌 무대 자동 교차편집
+
+shape_predictor_68_face_landmarks.dat
+파일은 검색하면 어디서든 받을 수 있음
+
+https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat
